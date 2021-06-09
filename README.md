@@ -28,7 +28,8 @@ View Prediction of Pokemon list by Type.
 $ kedro viz
 ```
 
-[image]
+![viz](./images/image01.png)
+
 
 ## Open MLFlow
 
@@ -36,4 +37,4 @@ $ kedro viz
 $ kedro mlflow ui
 ```
 
-[image]
+![ui](./images/image02.png)
