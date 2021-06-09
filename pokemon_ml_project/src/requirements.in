@@ -1,0 +1,10 @@
+kedro
+kedro-viz
+kedro-mlflow
+mlflow
+
+numpy
+pandas
+jupyter
+sklearn
+matplotlib
